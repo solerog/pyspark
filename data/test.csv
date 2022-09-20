@@ -1,6 +1,6 @@
-name,age
-roger,34
-sara,28
-arlet,1
-victor,31
-aina,27
+name,age,experience
+roger,34,5
+sara,28,9
+arlet,1,0
+victor,31,7
+aina,27,8
