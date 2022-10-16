@@ -1,6 +1,9 @@
-name,age,experience
-roger,34,5
-sara,28,9
-arlet,1,0
-victor,31,7
-aina,27,8
+name,age,experience, salary
+roger,34,5,30000
+sara,28,9,25000
+arlet,31,10,40000
+victor,31,7,38000
+aina,27,8,28000
+pedro,,,35000
+,27,10,40000
+,36,,
